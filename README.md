@@ -16,7 +16,7 @@ The main goal of this project is to make exam preparation easier by providing st
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 | Technology | Purpose |
 |---|---|
